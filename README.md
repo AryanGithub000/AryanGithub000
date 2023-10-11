@@ -39,9 +39,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/AryanGithub000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanGithub000&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGithub000&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -49,8 +49,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://aryangithub000.github.io/Personal_Portfolio/#home"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/aryan-singh-486911226/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_aryan64_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:aryansingh36369@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://aryangithub000.github.io/Personal_Portfolio/#home"><img alt="Website" src="https://img.shields.io/badge/Website-Personal%20Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/aryan-singh-486911226/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/_aryan64_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_aryan64_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:aryansingh36369@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aryansingh36369@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
