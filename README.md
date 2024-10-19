@@ -1,48 +1,36 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h1 align="center">Hi 👋, I'm Aryan Singh</h1>
+<h3 align="center">A passionate developer from India. I have knowledge related to the MERN stack and love working on the backend. I also have some experience with respect to Machine Learning, AI and Data Analysis.</h3>
 
-<h2> Hey there! I'm Aryan Singh.</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangithub000&label=Profile%20views&color=0e75b6&style=flat" alt="aryangithub000" /> </p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangithub000" alt="aryangithub000" /></a> </p>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at SRM University, Chennai.
-- 🌱 &nbsp; Learning more about Data Structures, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Data Analytics and Blog Writing as hobbies/side hustles.
+- 🔭 I’m currently working on [Anomaly Detection in Videos](https://github.com/AryanGithub000/Anomaly-Detection-in-Video)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🌱 I’m currently learning **React, MongoDB**
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
+- 👨‍💻 All of my projects are available at [https://website-aryangithub000s-projects.vercel.app/](https://website-aryangithub000s-projects.vercel.app/)
 
-<br/>
+- 💬 Ask me about **API, Express and NodeJS**
 
-<a href="https://github.com/AryanGithub000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanGithub000&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGithub000&theme=buefy&layout=compact" />
-</a>
+- 📫 How to reach me **aryansingh36369@gmail.com**
 
-<br/>
+- 📄 Know about my experiences [https://drive.google.com/file/d/10if_iA9C3bf8i5XTz6UU1z4yS0mGlNPX/view?usp=sharing](https://drive.google.com/file/d/10if_iA9C3bf8i5XTz6UU1z4yS0mGlNPX/view?usp=sharing)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+- ⚡ Fun fact **I play Tennis**
 
-<p align="center">
-<a href="https://aryangithub000.github.io/Personal_Portfolio/#home"><img alt="Website" src="https://img.shields.io/badge/Website-Personal%20Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/aryan-singh-486911226/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_aryan64_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_aryan64_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:aryansingh36369@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aryansingh36369@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/aryangithub000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryangithub000" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryan-singh-486911226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-singh-486911226" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_aryan64_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aryan64_" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangithub000&show_icons=true&locale=en&layout=compact" alt="aryangithub000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryangithub000&show_icons=true&locale=en" alt="aryangithub000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangithub000&" alt="aryangithub000" /></p>
